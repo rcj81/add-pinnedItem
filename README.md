@@ -12,12 +12,12 @@ To 'install' this script, download the .ps1 file and run in powershell.
 
 ## Parameters
 
-$filePath is the path of the folder you want to pin. This is not flagged as mandatory, but since it is needed, the script will not process if no path is provided.
+$folderName is the path of the folder you want to pin. This is not flagged as mandatory, but since it is needed, the script will not process if no folder is provided.
 $chatty is a flag that will write data to the screen when turned on. It is not needed, and may write to the screen depending on how the script is run.
 
 ## Usage
 
-Run the powershell script and include the $filePath parameter.
+Run the powershell script and include the $folderName parameter.
 
 ## Contributing
 
